@@ -1,1 +1,1 @@
-pyinstaller -F -c -i local/favicon.ico nas-guard-py3.py
+pyinstaller -F -c -i local/favicon.ico nas_guard_py3.py
