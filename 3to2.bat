@@ -1,0 +1,1 @@
+python D:\Python39\Scripts\3to2 -w ./nas-guard-py3.py ./nas-guard-py2.py
